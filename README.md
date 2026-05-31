@@ -51,7 +51,7 @@ Nikhil Kirtipal
 
 <div align="center">
 
-🔬 Always curious — from microscope to machine learning!
+*🔬 Always curious — from microscope to machine learning!
 
 </div>
 
