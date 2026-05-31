@@ -26,14 +26,14 @@ AI makes biological decisions, hence the focus on Explainable AI.
 - Infected vs uninfected cell detection
 - CNN architecture from scratch
 - Evaluation: ROC curve, AUC, Confusion Matrix
-- Explainable AI: GradCAM visualization
+- Explainable AI: GradCAM (under development)
 - Dataset: Kaggle malaria cell images
 
-### 2. Apoptosis Classification (coming soon)
+### 2. Apoptosis Classification (under development)
 - Normal vs apoptotic cell detection
 - CNN + Explainable AI
 
-### 3. Nucleus Segmentation (coming soon)
+### 3. Nucleus Segmentation (under development)
 - U-Net based segmentation
 - Dataset: BBBC038
 
