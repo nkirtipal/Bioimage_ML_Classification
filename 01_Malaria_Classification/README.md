@@ -1,12 +1,11 @@
 # Malaria Cell Classification
 
-CNN-based classification of malaria-infected and uninfected blood cell images using PyTorch.
+CNN-based classification of malaria-infected and uninfected 
+blood cell images using PyTorch.
 
 ## Results
 - Test Accuracy: 93.40%
 - AUC: 0.981
 
 ## Notebook
-📓 View the notebook via nbviewer:
-
-https://nbviewer.org/github/nkirtipal/Bioimage_ML_Classification/blob/main/01_Malaria_Classification/01_Malaria_ClassificationMalaria_CNN_Classification.ipynb](https://nbviewer.org/github/nkirtipal/Bioimage_ML_Classification/blob/main/01_Malaria_Classification/01_Malaria_ClassificationMalaria_CNN_Classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IJmPrtIcyoI2LTI-JEuv0FqnYT-TBXYF)
