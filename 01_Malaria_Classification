@@ -1,0 +1,6 @@
+# Malaria Cell Classification
+
+CNN-based classification of malaria infected vs uninfected cells.
+
+## Notebook
+- `Malaria_CNN_Classification.ipynb`
