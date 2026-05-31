@@ -3,6 +3,13 @@
 CNN-based classification of malaria-infected and uninfected 
 blood cell images using PyTorch.
 
+## Dataset
+- Cell Images for Detecting Malaria (Kaggle)
+- 27,558 microscopy images
+- Classes:
+  - Parasitized
+  - Uninfected
+
 ## Results
 - Test Accuracy: 93.40%
 - AUC: 0.981
