@@ -49,4 +49,9 @@ AI makes biological decisions, hence the focus on Explainable AI.
 ## Author
 Nikhil Kirtipal
 
+<div align="center">
+
 🔬 Always curious — from microscope to machine learning!
+
+</div>
+
